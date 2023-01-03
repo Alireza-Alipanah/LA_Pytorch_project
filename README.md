@@ -7,5 +7,5 @@ Simple implementation of PCA algorithm on Iris dataset to be able to show the da
 </li>
 <li>
 Simple recommender system to be able to give movie suggestions based on user's rating for other movies. We utilize SVD here to be able to guess the unkown ratings.
-<li>
+</li>
 </ol
